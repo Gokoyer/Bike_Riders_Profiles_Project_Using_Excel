@@ -1,0 +1,6 @@
+In this project, I analysed data on bike riders' profiles such as their marital status, gender, cars owned, income, education, age, bike purchase and etc in excel. I cleaned, formatted and standardised the dataset accordingly. Slicers, pivot table and dashboard were created for the project. The link provided below will take you to where all these aforementioned can be viewed on GitHub repo.
+
+Average Income of Female Bike Riders are few thousands of dollars short of their male counterparts while the Middle aged riders (31-54 yrs old) purchased bikes the most among all the age categories. In gaining insights into commute patterns and distance covered by riders, it is revealed from data analysis that more riders that commute less than 1 miles per day bought their while less riders that usually travel more than 5 miles/day bown their personal bikes. Kindly go through the project in github via the link provided:
+https://github.com/Gokoyer/EXCEL_DataWorks/tree/master/Bike_Riders_Profiles.
+
+Lastly, I created visualizations in tableau where income by education, cars by education and ,education by children are presented in a dashboard. https://public.tableau.com/views/IncomebyeducationbycarsViz/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link.
